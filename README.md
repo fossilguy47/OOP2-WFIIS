@@ -1,2 +1,2 @@
 # OOP2-WFIIS
-Java OOP university course.
+Choosen tasks from Java OOP university course.
